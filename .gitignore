@@ -1,0 +1,12 @@
+node_modules\*
+node_modules
+*.njsproj
+*.suo
+*.sln
+*.map
+*~
+npm-debug.log
+.DS_Store
+*.tar.gz
+*-preview.json
+static
